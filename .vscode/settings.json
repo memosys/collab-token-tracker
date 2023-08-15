@@ -1,4 +1,5 @@
 {
   "python.formatting.provider": "black",
-  "dotenv.enableAutocloaking": false
+  "dotenv.enableAutocloaking": false,
+  "cSpell.language": "en,en-US"
 }
