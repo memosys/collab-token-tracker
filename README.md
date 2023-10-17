@@ -1,5 +1,6 @@
-<div align="center"><h1><b>Collab🤝Land Actions FastAPI Template</b></h1></div>
+<div align="center"><h1><b>Collab🤝Land Token Tracker Miniapp</b></h1></div>
 
+Scaffolded from Collabland-FastAPI template!
 ## **Introduction** 🙏
 
 The repository serves as a FastAPI template for implementing Collab.Land actions for Discord interactions. The Collab.Land actions are installed to the Collab.Land bot through the **`/test-flight`** miniapp available in the Collab.Land marketplace.
